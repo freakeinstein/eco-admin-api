@@ -1,6 +1,6 @@
 # ECO Admin API
 
-Admin api this is a random description
+Admin api - this is the readme file
 
 ## Prerequisites
 
