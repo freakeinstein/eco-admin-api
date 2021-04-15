@@ -1,6 +1,6 @@
 # ECO Admin API
 
-Admin api - this is the readme file
+Admin api - admin api for dashbord app
 
 ## Prerequisites
 
