@@ -1,6 +1,6 @@
 # ECO Admin API
 
-Admin api - admin api for dashbord app
+Admin api - admin api for dashbord app for bug fix
 
 ## Prerequisites
 
